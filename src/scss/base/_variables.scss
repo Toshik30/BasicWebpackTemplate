@@ -1,32 +1,19 @@
-$primary-font-size: 23px;
-$heading-font-size:50px;
-$small-font-size: 20px;
+$big-font-size:125px;
+$heading-font-size:48px;
+$primary-font-size: 36px;
+$small-font-size: 22px;
 
+$extra-font-weight:800;
 $bold-font-weight:700;
 $semi-bold-font-weight:600;
 $medium-font-weight:500;
 $regular-font-weight:400;
+$light-font-weight:300;
 
-$coral: #e92555;
-$coral-hover: rgba(253, 80, 66, 1);
-$text-accent: #e72a5e;
-$white: #ffffff;
-$text-primary: #ebebeb;
+$primary: #27ca81;
+$white: #feffff;
+$text-primary: #27ca81;
 
-$background-header:linear-gradient(180deg, #3e1d4a 0%, #15071e 100%);
-$background-section2: #17081f;
-$background-section3:linear-gradient(to top, #3b1c45 0%, #15071e 100%);
-$background-section4:linear-gradient(to top, #1d0c25 0%, #3a1c46 100%);
-$background-section5:linear-gradient(180deg, #1d0c25 0%, #15071e 100%);
-$background-section6:linear-gradient(180deg, #16061d 0%, #2a1432 52%, #15071e 100%);
-$background-section7:linear-gradient(180deg, #16061d 0%, #35193f 52%, #17081f 100%);
-$background-section8:linear-gradient(180deg, #16061d 0%, #1d0c25 100%);
-
-$box-shadow:0 5px 24px rgba(0, 0, 0, 0.14);
-$background-plan:linear-gradient(180deg, #63466e 0%, #603f6b 100%);
-
-$big-radius: 8px;
-$small-radius: 4px;
 
 %flex-between {
 	display: flex;
